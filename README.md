@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 Schooling At SMAN 8 KOTA TANGERANG<br> 🕹 Ready for part-time job<br>🤝 Looking for awsome colaborate<br>🌱 I’m currently learning (REACT, LARAVEL, VUE, NEXT)<br>💬 Ask me about FrontEnd and BackEnd
+🏫studied at Diponegoro University<br> 🕹 Ready for part-time job<br>🤝 Looking for awsome colaborate<br>🌱 I’m currently learning (REACT, LARAVEL, VUE, NEXT)<br>💬 Ask me about FrontEnd and BackEnd
 
 
 ## 🌐 Socials:
